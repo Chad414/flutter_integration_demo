@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterengineexample_module (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter/flutterengineexample_module/.ios/Flutter/engine`)
+  - flutterengineexample_module (from `Flutter/flutterengineexample_module/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `Flutter/flutterengineexample_module/.ios/Flutter/FlutterPluginRegistrant`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter/flutterengineexample_module/.ios/Flutter/engine
+  flutterengineexample_module:
+    :path: Flutter/flutterengineexample_module/.ios/Flutter
+  FlutterPluginRegistrant:
+    :path: Flutter/flutterengineexample_module/.ios/Flutter/FlutterPluginRegistrant
+
+SPEC CHECKSUMS:
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  flutterengineexample_module: 52310698da741a5e0c2797758e229c6156ac75a6
+  FlutterPluginRegistrant: 2afd5ea46d3a949472c9b7da6462d8fbf7d8b16e
+
+PODFILE CHECKSUM: b2fbae43099981120747d0f9d3f6442d195231ba
+
+COCOAPODS: 1.11.2
